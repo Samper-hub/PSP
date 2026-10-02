@@ -1,41 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1865cfb1-9347-42bb-b3e7-845bdcabd87a" name="Changes" comment="" />
+    <list default="true" id="1865cfb1-9347-42bb-b3e7-845bdcabd87a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ej1_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ej1_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork_II" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork_II.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/creaFifo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/ej2_4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/ej2_5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/escribeFifo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/fifoCarne" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/fifoCarrefour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/creaFifo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ej2_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ej2_5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ejemploPipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ejemploPipe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ejercicio2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/ejercicio2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/escribeFifo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarne" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarne.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarrefour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarrefour.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoPesca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoPesca.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/act2_12/Sumador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HolaMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejemplo1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Samper-hub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Samper-hub/PSP.git&quot;,
+    &quot;accountId&quot;: &quot;cc51db04-6f7e-4494-8e9e-30c4d74b705f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3K8bxi2eCIx5iOYzRUipG41yppm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploComando.executor": "Run",
+    "Application.EjemploJava.executor": "Run",
+    "Application.HolaMundo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sami/repo/PSP/Javas/Ejercicios"
+    "last_opened_file_path": "D:/2dama/git java/Javas/Ejercicios"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="HolaMundo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
