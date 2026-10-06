@@ -1,45 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1865cfb1-9347-42bb-b3e7-845bdcabd87a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ej1_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ej1_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork_II" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ1/ejemploFork_II.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/creaFifo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/ej2_4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/ej2_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/escribeFifo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/fifoCarne" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/bin/fifoCarrefour" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/creaFifo.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ej2_4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ej2_5.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ejemploPipe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ejemploPipe.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ejercicio2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/ejercicio2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/escribeFifo.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarne" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarne.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarrefour" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoCarrefour.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoPesca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EJ2/fifoPesca.c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/act2_12/Sumador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/act2_12/Sumador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HolaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HolaMundo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ejemplo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ejemplo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/act2_13/Lanzador2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/act2_14/Lanzador3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +38,65 @@
     &quot;accountId&quot;: &quot;cc51db04-6f7e-4494-8e9e-30c4d74b705f&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.8547412957647447E-19" />
+      <entry key="MS500" value="2.1670984587730696E-4" />
+      <entry key="S2" value="0.17499434031007338" />
+      <entry key="S5" value="0.7499023169779089" />
+      <entry key="S10" value="1.3430660334501905" />
+      <entry key="S30" value="2.7299510888770384" />
+      <entry key="S60" value="4.343716452467895" />
+      <entry key="M2" value="7.485467869495162" />
+      <entry key="M5" value="15.092717807056111" />
+      <entry key="M10" value="24.809048208734666" />
+      <entry key="M15" value="32.49610848924281" />
+      <entry key="M30" value="46.36419812742981" />
+      <entry key="H1" value="57.45014017972516" />
+      <entry key="H2" value="64.55843147414105" />
+      <entry key="H4" value="68.59657739331583" />
+      <entry key="D1" value="72.23924427306258" />
+      <entry key="W1" value="72.89064270166747" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000007784058" />
+      <entry key="S2" value="1.0114456703475965" />
+      <entry key="S5" value="1.3365300107789424" />
+      <entry key="S10" value="2.2186073033171922" />
+      <entry key="S30" value="6.063030274413927" />
+      <entry key="S60" value="11.512796716765326" />
+      <entry key="M2" value="20.591171161500363" />
+      <entry key="M5" value="38.00080716727091" />
+      <entry key="M10" value="55.67333781390048" />
+      <entry key="M15" value="67.86606990598459" />
+      <entry key="M30" value="88.09982677014415" />
+      <entry key="H1" value="103.37454670025424" />
+      <entry key="H2" value="112.8982445125917" />
+      <entry key="H4" value="118.23436748377279" />
+      <entry key="D1" value="123.00761677353768" />
+      <entry key="W1" value="123.85743885181128" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.627146520320441E-7" />
+      <entry key="MS500" value="0.048311062847391395" />
+      <entry key="S2" value="0.577573379903015" />
+      <entry key="S5" value="1.6200542342820168" />
+      <entry key="S10" value="3.162923490769917" />
+      <entry key="S30" value="8.491330001406196" />
+      <entry key="S60" value="15.606866300369822" />
+      <entry key="M2" value="27.869669286679954" />
+      <entry key="M5" value="52.941440534516715" />
+      <entry key="M10" value="80.36762100114254" />
+      <entry key="M15" value="100.26694553960037" />
+      <entry key="M30" value="134.4004258988281" />
+      <entry key="H1" value="160.78673954022568" />
+      <entry key="H2" value="177.43576833932542" />
+      <entry key="H4" value="186.81994685610343" />
+      <entry key="D1" value="195.24494669426704" />
+      <entry key="W1" value="196.74780600265535" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -93,7 +122,8 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/2dama/git java/Javas/Ejercicios"
+    "last_opened_file_path": "D:/2dama/git java/Javas/Ejercicios",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RunManager">
