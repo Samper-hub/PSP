@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="reloj.JFrameReloj">
+  <grid id="27dc6" binding="panel1" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="40" width="500" height="380"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="ab3ef" class="javax.swing.JLabel" binding="labelTime">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-16777216"/>
+          <font size="48" style="3"/>
+          <foreground color="-5559774"/>
+          <horizontalAlignment value="0"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

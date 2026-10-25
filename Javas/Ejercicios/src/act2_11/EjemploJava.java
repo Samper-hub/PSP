@@ -1,7 +1,5 @@
 package act2_11;
 
-import act2_10.EjemploComando;
-
 import java.io.File;
 import java.io.IOException;
 
