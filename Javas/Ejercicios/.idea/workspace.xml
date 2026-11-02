@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1865cfb1-9347-42bb-b3e7-845bdcabd87a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_12/Lanzador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_12/Sumador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_13/Sumador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/act2_14/Sumador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/EstadosThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/ThreadEjemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/ThreadEjemploRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rcronometro/Cronometro.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rcronometro/Cronometro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reloj/JFrameReloj.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reloj/JFrameReloj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PSP.iml" afterDir="false" />
+    <list default="true" id="1865cfb1-9347-42bb-b3e7-845bdcabd87a" name="Changes" comment="Reloj y Cronometro">
+      <change afterPath="$PROJECT_DIR$/src/ejemplos/EjemploJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplos/HilosEjemploInterrumpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reloj/RelojAjedrez.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reloj/RelojAjedrez.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/act2_11/EjemploJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/act2_11/EjemploJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/act2_13/Lanzador2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/act2_12/Lanzador3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/act2_14/Lanzador3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,61 +40,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="8.3016497936735E-64" />
-      <entry key="MS500" value="2.443798169167417E-13" />
-      <entry key="S2" value="9.262202203124551E-4" />
-      <entry key="S5" value="0.10041582271724989" />
-      <entry key="S10" value="0.6054017662740471" />
-      <entry key="S30" value="3.114414744297332" />
-      <entry key="S60" value="6.018467574138807" />
-      <entry key="M2" value="9.880447996309663" />
-      <entry key="M5" value="17.653516839559188" />
-      <entry key="M10" value="28.87269300520309" />
-      <entry key="M15" value="37.912080291301294" />
-      <entry key="M30" value="54.63294122157906" />
-      <entry key="H1" value="68.5517946053722" />
-      <entry key="H2" value="77.76376088759021" />
-      <entry key="H4" value="83.09864611883079" />
-      <entry key="D1" value="87.97421601466932" />
-      <entry key="W1" value="88.85238529050173" />
+      <entry key="MS100" value="2.5301361507307412E-33" />
+      <entry key="MS500" value="5.281174093304893E-7" />
+      <entry key="S2" value="0.057997945021335484" />
+      <entry key="S5" value="0.8277555185613122" />
+      <entry key="S10" value="2.486088157981609" />
+      <entry key="S30" value="6.623486857300539" />
+      <entry key="S60" value="9.520377821379364" />
+      <entry key="M2" value="13.730326184052467" />
+      <entry key="M5" value="25.876473835267223" />
+      <entry key="M10" value="42.12333714217815" />
+      <entry key="M15" value="55.00250424756077" />
+      <entry key="M30" value="80.64431876653356" />
+      <entry key="H1" value="104.31951796129538" />
+      <entry key="H2" value="121.18220103973468" />
+      <entry key="H4" value="131.37276834384014" />
+      <entry key="D1" value="140.95252864208038" />
+      <entry key="W1" value="142.70468076744984" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000320348109015" />
-      <entry key="MS500" value="1.1262485307802907" />
-      <entry key="S2" value="1.7362063159034837" />
-      <entry key="S5" value="2.989372252787866" />
-      <entry key="S10" value="4.949394502811758" />
-      <entry key="S30" value="10.860642998240271" />
-      <entry key="S60" value="17.42979851641736" />
-      <entry key="M2" value="28.036194721936486" />
-      <entry key="M5" value="52.46172753119598" />
-      <entry key="M10" value="85.53440508882068" />
-      <entry key="M15" value="111.89588213356163" />
-      <entry key="M30" value="161.27685360878354" />
-      <entry key="H1" value="202.98828604500463" />
-      <entry key="H2" value="230.8322592707134" />
-      <entry key="H4" value="247.0292412767078" />
-      <entry key="D1" value="261.8724684177703" />
-      <entry key="W1" value="264.5498391149153" />
+      <entry key="MS100" value="1.139566408152728" />
+      <entry key="MS500" value="2.0870059463816997" />
+      <entry key="S2" value="2.990899542939939" />
+      <entry key="S5" value="4.073692612290518" />
+      <entry key="S10" value="5.743233011051329" />
+      <entry key="S30" value="10.881556305290118" />
+      <entry key="S60" value="15.288116408218354" />
+      <entry key="M2" value="21.678133386621422" />
+      <entry key="M5" value="41.66645715092792" />
+      <entry key="M10" value="75.50157454147573" />
+      <entry key="M15" value="106.43588029731326" />
+      <entry key="M30" value="173.4680625062275" />
+      <entry key="H1" value="238.74813472474017" />
+      <entry key="H2" value="286.3925143940243" />
+      <entry key="H4" value="315.51870590470503" />
+      <entry key="D1" value="343.08675027861364" />
+      <entry key="W1" value="348.14666015791914" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.035158077646525294" />
-      <entry key="MS500" value="0.5122464003533111" />
-      <entry key="S2" value="1.0847547833256415" />
-      <entry key="S5" value="2.5150236902154512" />
-      <entry key="S10" value="5.083758162997493" />
-      <entry key="S30" value="13.64888878339047" />
-      <entry key="S60" value="23.187779596259862" />
-      <entry key="M2" value="37.70769160163882" />
-      <entry key="M5" value="69.95771969907463" />
-      <entry key="M10" value="114.27773129255993" />
-      <entry key="M15" value="149.6954732902679" />
-      <entry key="M30" value="215.82960765507036" />
-      <entry key="H1" value="271.49008214638724" />
-      <entry key="H2" value="308.5677496217559" />
-      <entry key="H4" value="330.1128055981803" />
-      <entry key="D1" value="349.8440266840389" />
-      <entry key="W1" value="353.40184101956635" />
+      <entry key="MS100" value="0.34663173759277494" />
+      <entry key="MS500" value="1.5051784726490345" />
+      <entry key="S2" value="2.6734143258334604" />
+      <entry key="S5" value="4.534643397457005" />
+      <entry key="S10" value="7.863780499770041" />
+      <entry key="S30" value="17.212099654908933" />
+      <entry key="S60" value="24.594645144096248" />
+      <entry key="M2" value="35.255696342306756" />
+      <entry key="M5" value="67.42556854309666" />
+      <entry key="M10" value="117.51709611149808" />
+      <entry key="M15" value="161.33614603105613" />
+      <entry key="M30" value="254.0285390297145" />
+      <entry key="H1" value="343.00997805321305" />
+      <entry key="H2" value="407.54017620839136" />
+      <entry key="H4" value="446.8724697918874" />
+      <entry key="D1" value="484.0358386522396" />
+      <entry key="W1" value="490.85084231534245" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,9 +114,11 @@
     "Application.Cronometro.executor": "Run",
     "Application.EjemploComando.executor": "Run",
     "Application.EjemploJava.executor": "Run",
+    "Application.HilosEjemploInterrumpt.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.JFrameReloj.executor": "Run",
     "Application.Lanzador.executor": "Run",
+    "Application.RelojAjedrez.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -175,6 +165,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reloj y Cronometro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reloj y Cronometro" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
